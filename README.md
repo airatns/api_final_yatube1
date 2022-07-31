@@ -1,10 +1,18 @@
-# api_final
+# REST API для проекта Yatube
+
+Бэкенд для проекта Yatube реализован по ссылке:
+
+>*https://github.com/airatns/hw05_final*
+
+## **Стек технологий**
+
+Python, Django, Django REST Framework, Simple JWT, Djoser, SQLite3, Postman
 
 ## **Как запустить проект:**
 
 Клонировать репозиторий и перейти в него в командной строке:
 
->*git clone https://github.com/airatns/api_final_yatube.git*
+>*git clone https://github.com/airatns/api_final_yatube1*
 
 Cоздать и активировать виртуальное окружение:
 
