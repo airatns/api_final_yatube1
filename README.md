@@ -6,7 +6,7 @@
 
 ## **Стек технологий**
 
-Python, Django, Django REST Framework, Simple JWT, Djoser, SQLite3, Postman
+Python, Django, Django REST Framework, Simple JWT, Djoser, SQLite3
 
 ## **Как запустить проект:**
 
