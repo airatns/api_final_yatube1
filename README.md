@@ -38,60 +38,14 @@ Cоздать и активировать виртуальное окружен�
 
 ## **Примеры**
 
-### **Создание публикации**
+### **Получение публикации**
 
->*http://127.0.0.1:8000/api/v1/posts/*
+![Post](https://user-images.githubusercontent.com/96816183/182833690-a20e5733-139d-458f-90bb-4142e45edcc3.png)
 
-*Request*
+### **Создание комментария**
 
->*"text": "купил котенка",*
-
->*"group": "1"*
-
-*Response*
-
->*"id": "1"*
-
->*"author": "tiger"*
-
->*"text": "купил котенка"*
-
->*"pub_date": "01-04-2022 14:00:01"*
-
->*"group": "1"*
-
-### **Получение комментариев**
-
->*http://127.0.0.1:8000/api/v1/posts/{post_id}/comments/*
-
-*Request*
-
->*"post_id": "1",*
-
-*Response*
-
->*"id": "1"*
-
->*"author": "leo"*
-
->*"text": "покажи фотку"*
-
->*"created": "01-04-2022 16:00:01"*
-
->*"post": "1"*
+![comment](https://user-images.githubusercontent.com/96816183/182833743-8790520a-6939-4adb-8258-90c6b585e8c0.png)
 
 ### **Получение JWT-токена**
 
->*http://127.0.0.1:8000/api/v1/jwt/create/*
-
-*Request*
-
->*"username": "kitten",*
-
->*"password": "kitten1",*
-
-*Response*
-
->*"refresh": "eysfaq05"*
-
->*"access": "eyfdsgsfdg08"*
+![Tokrn](https://user-images.githubusercontent.com/96816183/182833559-e1997753-5311-40c7-b71a-b1dbf477ef29.png)
