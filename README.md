@@ -2,7 +2,7 @@
 
 Бэкенд для проекта Yatube реализован по ссылке:
 
->*https://github.com/airatns/hw05_final*
+>*https://github.com/airatns/hw05_final_yatube*
 
 ## **Стек технологий**
 
