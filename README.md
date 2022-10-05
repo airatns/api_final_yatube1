@@ -16,7 +16,7 @@ Python, Django, Django REST Framework, Simple JWT, Djoser, SQLite3
 
 Cоздать и активировать виртуальное окружение:
 
->*python -m venv env*
+>*python -m venv env* \
 >*source env/scripts/activate*
 
 Установить зависимости из файла requirements.txt:
